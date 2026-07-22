@@ -1,11 +1,10 @@
 ## About me
-Hi, I'm Donovan Felton, a Computer Science student at Loyola Marymount
-University (B.S., expected December 2026). I'm passionate about building
-software end-to-end and have experience across mobile, backend, and
-gameplay programming,  mainly using Swift, Python, Java, Lua, and C, with
-Supabase for backend/auth on mobile apps. I'm comfortable picking up new
-languages and tools quickly, and enjoy the process of taking a project
-from a blank editor to something people can actually use.
+Computer Science student at LMU, graduating December 2026. I spend most
+of my time building mobile apps in Swift and Supabase, with Python, Java,
+C, and Lua for whatever a project needs outside of that,  data analysis,
+gameplay systems, whatever comes up. I like finishing things: taking a
+project from an empty file to something someone can actually open and use.
+
 
 ## Recent Projects
 
